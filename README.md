@@ -5,3 +5,4 @@ BMW m3 CSi 750 hp
 BMW m6 CSi 550 hp
 BMW m2 650 hp
 BMW E34 240 hp
+BMW E34 M50B30 240 hp
