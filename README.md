@@ -6,3 +6,4 @@ BMW E30 M20B25 440 hp
 Toyota Supra 2JZ GTE 1500HP
 Nissan 2JZ GTE 1500HP
 BMW M3 E92 800HP boost to 2 Bar BorgWarner turbo made in Sweden
+BMW E36 800HP boost to 2 Bar BorgWarner turbo 
